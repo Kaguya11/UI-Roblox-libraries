@@ -1,3 +1,6 @@
+## Repository
+https://github.com/deeeity/mercury-lib
+
 ## Preview
 ![image](https://github.com/user-attachments/assets/757964e5-abfa-49f8-8653-775a47e7c718)
 
